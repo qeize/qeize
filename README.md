@@ -6,16 +6,12 @@
 ### <div align="center">👋 Hey, I'm Veccy!
 A self-taught cybersecurity enthusiast specializing in DDoS and network security since 2020. I also develop websites and digital tools.</div>  
   
-
 - 🔭 I’m currently working on various cybersecurity and network stress-testing projects.  
-  
 
 - 🌱 I’m currently learning advanced penetration testing and botnet mitigation techniques.  
-  
 
 - ❓ Ask me about anything related to cybersecurity, DDoS testing, and network security.  
   
-
 - ⚡ Fun fact: I enjoy breaking things to make them stronger.  
   
 
