@@ -115,4 +115,4 @@ A self-taught cybersecurity enthusiast specializing in DDoS and network security
 <br />
 
 ----
-<div align="center">Copyright <a href="https://veccy.my.id" target="_blank">Veccy</a>© 2020-2025</div>
+<div align="center">Copyright <a href="https://veccy.my.id" target="_blank">Veccy</a> © 2020-2025</div>
