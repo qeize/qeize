@@ -80,7 +80,7 @@ A self-taught cybersecurity enthusiast specializing in DDoS and network security
 <br/>  
 
 
-## Connect with me  
+## Connect With Me  
 <div align="center">
 <a href="https://github.com/qeize" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -107,20 +107,9 @@ A self-taught cybersecurity enthusiast specializing in DDoS and network security
 
 
 
-## Recent Blog Posts  
+## Donate Me
 <!-- BLOG-POST-LIST:START -->  
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
