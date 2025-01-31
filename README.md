@@ -106,7 +106,7 @@ A self-taught cybersecurity enthusiast specializing in DDoS and network security
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/" target="_blank" style="display: inline-block;">
+            <a href="https://saweria.co/veccy" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
