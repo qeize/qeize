@@ -4,11 +4,11 @@
   
 
 ### <div align="center">👋 Hey, I'm Veccy!
-A versatile tech enthusiast passionate about network security, web development, and automation. Continuously learning cloud technologies, UI/UX design, and ethical hacking to build smarter and safer digital experiences.<div>
+Interested in network security, web development, and automation. Currently learning cloud computing, UI/UX, and ethical hacking.<div>
 - 🔭 Currently working on projects involving network security, website design, and automation tools.  
 - 🌱 Learning new skills in cloud computing, UI/UX design, and ethical hacking.  
 - ❓ Ask me about tech, programming, or how to build secure and user-friendly websites. 
-- ⚡ Fun fact: I’m always curious about how technology shapes our daily lives.
+- ⚡ Fun fact: I'm always curious about how technology shapes our daily lives.
   
 
 <br/>  
