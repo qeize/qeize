@@ -4,7 +4,7 @@
   
 
 ### <div align="center">👋 Hey, I'm Veccy!
-A self-taught cybersecurity enthusiast specializing in DDoS and network security since 2020. I also develop websites and digital tools.<div>
+A versatile tech enthusiast passionate about network security, web development, and automation. Continuously learning cloud technologies, UI/UX design, and ethical hacking to build smarter and safer digital experiences.<div>
 - 🔭 Currently working on projects involving network security, website design, and automation tools.  
 - 🌱 Learning new skills in cloud computing, UI/UX design, and ethical hacking.  
 - ❓ Ask me about tech, programming, or how to build secure and user-friendly websites. 
