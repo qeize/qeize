@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 Hey, I'm Veccy!
+### <div align="center">👋 Hey, I'm Kize1337!
 Interested in network security, web development, and automation. Currently learning cloud computing, UI/UX, and ethical hacking.<div>
 - 🔭 Currently working on projects involving network security, website design, and automation tools.  
 - 🌱 Learning new skills in cloud computing, UI/UX design, and ethical hacking.  
@@ -115,4 +115,4 @@ Interested in network security, web development, and automation. Currently learn
 <br />
 
 ----
-<div align="center">Copyright <a href="https://veccy.my.id" target="_blank">Veccy</a> © 2020-2025</div>
+<div align="center">Copyright <a href="https://veccy.my.id" target="_blank">Kize1337</a> © 2020-2025</div>
