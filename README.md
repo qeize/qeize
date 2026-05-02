@@ -18,5 +18,5 @@
 ---
 
 <div align="justify" style="max-width: 800px; margin: 0 auto;">
-<p><b>Hey, I'm Kize, I spend most of my time in the terminal working with Linux systems and exploring the security side of the web. My main focus is on offensive security, finding vulnerabilities and testing system boundaries. When I’m not writing or reviewing code, I’m usually exploring targets, running bots, or trying different approaches to gain deeper access. I’ve built my experience through hands-on work, including CTF challenges and real-world testing.</p>
+<p>Hey, I'm<b>Kize, <p>I spend most of my time in the terminal working with Linux systems and exploring the security side of the web. My main focus is on offensive security, finding vulnerabilities and testing system boundaries. When I’m not writing or reviewing code, I’m usually exploring targets, running bots, or trying different approaches to gain deeper access. I’ve built my experience through hands-on work, including CTF challenges and real-world testing.</p>
 </div>
