@@ -18,5 +18,5 @@
 ---
 
 <div align="justify" style="max-width: 800px; margin: 0 auto;">
-<p>Hey, <b>I'm Kize!</b> Just a guy who spends too much time in the terminal and obsesses over money. I mess around with Linux servers, write Bash scripts when I'm lazy, and build backends with PHP or Node.js depending on my mood. Big on automation and security stuff. When I'm not staring at code, I'm probably trying to brute force something, dropping webshells, setting up bots, or seeing how far I can push a system. CTF challenges keep me busy too. Honestly I just like breaking things to understand how they work. Build tools that do the heavy lifting so I can be lazy in peace.</p>
+<p>Hey, <b>Hey, I'm Kize, I spend most of my time in the terminal working with Linux systems and exploring the security side of the web. My main focus is on offensive security, finding vulnerabilities and testing system boundaries. When I’m not writing or reviewing code, I’m usually exploring targets, running bots, or trying different approaches to gain deeper access. I’ve built my experience through hands-on work, including CTF challenges and real-world testing.</p>
 </div>
